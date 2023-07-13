@@ -1,0 +1,89 @@
+body {
+  background-color: antiquewhite;
+  font-family: "Tahoma", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  background-color: slategray;
+  color: antiquewhite;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 25px;
+  text-transform: uppercase;
+}
+
+img {
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 5px;
+  width: 120px;
+  margin-left: 20%;
+  position: absolute;
+  top: 40px;
+}
+
+h2 {
+  text-align: center;
+  background-color: slategray;
+  color: antiquewhite;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+table, th, td {
+  border: 1px solid;
+  font-size: 16px;
+  vertical-align: middle;
+  height: 25px;
+  margin: auto;
+  border-color: slategray; 
+}
+
+th {
+  font-weight: 1000;
+  color: black;
+  height: 50px;
+  text-align: center;
+}
+
+.color {
+  background-color: plum;
+}
+
+.color1 {
+  background-color: mistyrose;
+}
+
+.font {
+  background-color: darkseagreen;
+}
+
+.font1 {
+  background-color: palegreen;
+}
+
+footer {
+  text-align: center;
+  background-color: slategray;
+  color: antiquewhite;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 0px;
+  position: absolute;
+}
